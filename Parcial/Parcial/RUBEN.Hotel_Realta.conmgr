@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="RUBEN.Hotel_Realta"
+  DTS:DTSID="{CD96B1B2-4341-4D22-B1D2-58B87F31AB65}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=RUBEN;Initial Catalog=Hotel_Realta;Integrated Security=True;Application Name=SSIS-Parcial-{CD96B1B2-4341-4D22-B1D2-58B87F31AB65}RUBEN.Hotel_Realta;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
